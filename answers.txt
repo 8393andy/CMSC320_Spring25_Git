@@ -13,3 +13,8 @@ Answer: Merge connects the separate branch to the main branch with a new
 	commit, whereas rebase replays commits from a branch onto the main 
 	branch, resulting in a single branch. Merge maintains more of the
 	change history while rebase results in a cleaner history. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to getting familiar and proficient with the
+	tools for data science. 
